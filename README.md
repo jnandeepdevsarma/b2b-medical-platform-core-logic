@@ -62,6 +62,7 @@ Learns from user history
 Error-proof input fields
 
 5. Project Structure
+```bash
 b2b-medical-platform-core-logic/
 │
 ├── project_overview/
@@ -78,8 +79,8 @@ b2b-medical-platform-core-logic/
 │
 └── demo/
     └── demo_video.mp4
-
-6. Tools & Technologies
+```
+7. Tools & Technologies
 
 Figma (high-fidelity prototypes + developer handoff)
 
