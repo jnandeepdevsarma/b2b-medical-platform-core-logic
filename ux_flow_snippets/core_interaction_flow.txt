@@ -1,0 +1,6 @@
+User Login → Role-Based Home Dashboard → Quick Order Options
+→ Pre-listed Items / Custom Order
+→ Auto-fill Data Based on Previous Orders
+→ Review Screen (Smart Defaults)
+→ Instant Order Submission
+→ Confirmation + Real-Time ETA

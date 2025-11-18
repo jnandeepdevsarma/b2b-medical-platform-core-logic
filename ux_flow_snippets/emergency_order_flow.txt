@@ -1,0 +1,5 @@
+1. System shows minimal UI: only essential categories (ICU items, critical drugs, diagnostic kits).
+2. One-tap quantity presets shown for speed.
+3. Auto-populates delivery and department info.
+4. User confirms order instantly.
+5. Immediate dispatch request sent to suppliers.

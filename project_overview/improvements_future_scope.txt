@@ -1,0 +1,5 @@
+1. Add AI-based auto-suggestions for recurring emergency orders.
+2. Enable voice-based search for faster ordering during critical situations.
+3. Integrate real-time supplier ETA and stock forecasting.
+4. Provide a lighter offline-first mode for low-connectivity hospital environments.
+5. Expand dashboard analytics for procurement teams.

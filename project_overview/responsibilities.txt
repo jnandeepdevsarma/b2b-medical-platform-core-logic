@@ -1,0 +1,6 @@
+1. Designed end-to-end interaction logic for the website to ensure minimal friction and fast order completion.
+2. Architected the workflow for instant purchase of pre-listed and custom medical items.
+3. Created high-fidelity UI/UX prototypes in Figma, which were later used directly by the client’s dev team.
+4. Streamlined menu layouts, order creation flows, and approval steps for emergency use cases.
+5. Conducted rapid stakeholder review cycles focusing on speed, clarity, and error-proofing.
+6. Translated business logic into clean, easily implementable screens and user journeys.

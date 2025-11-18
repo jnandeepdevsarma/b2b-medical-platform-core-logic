@@ -1,0 +1,4 @@
+• Prototypes built using auto-layout and responsive rules.
+• All critical flows documented with annotations.
+• Developer handoff included interaction notes, behavior specs, and screen versions.
+• Final designs used directly as the production reference by the engineering team.

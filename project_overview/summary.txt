@@ -1,0 +1,7 @@
+This project involved designing the core interaction logic for a B2B medical supply platform (Owvel). 
+The platform is used by hospitals, clinics, labs, and emergency response teams to place rapid medical orders 
+under time-critical situations.
+
+The focus of the project was on creating a system where users could complete pre-listed or customized orders 
+within seconds. Work included process optimization, Figma UI/UX prototyping, and designing responsive workflows 
+for medical buyers handling urgent operational needs.

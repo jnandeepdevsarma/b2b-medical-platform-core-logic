@@ -1,0 +1,11 @@
+Challenge 1: Emergency buyers needed to complete orders within 10–20 seconds.
+Solution: Reduced steps using one-tap order confirmation, auto-populated forms, and quick-select presets.
+
+Challenge 2: High variation in medical requirements across hospitals and labs.
+Solution: Designed dynamic order templates that adapt based on the user type and previous purchase patterns.
+
+Challenge 3: Frequent user errors during high-pressure situations.
+Solution: Added smart defaults, inline error prevention, and simplified data fields to reduce cognitive load.
+
+Challenge 4: Developers needed clear logic mapping for implementation.
+Solution: Provided annotated Figma prototypes and flow diagrams representing every decision point.

@@ -1,0 +1,5 @@
+1. User chooses a pre-listed item package.
+2. System loads standardized hospital-approved bundles.
+3. Quantities auto-set based on the department’s usual requirement.
+4. User confirms purchase directly without manual entry.
+5. Order placed + status synced across stakeholders.
